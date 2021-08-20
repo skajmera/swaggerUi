@@ -50,9 +50,7 @@ then write this command <br>
  ---
  
 **Install Dependencies**
-* dotenv
 * express
-* body-parser
 * mysql
 * knex
 
