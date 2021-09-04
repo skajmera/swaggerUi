@@ -42,7 +42,7 @@ Swagger is a set of open-source tools built around the OpenAPI Specification tha
 
 **how to install this project** <br>
 first you have to clone my repo <br>
-`git clone` [repolink](https://github.com/parmeshwar4321/SWAGGER-UI)
+`git clone` [repolink](https://github.com/skajmera/swaggerUi.git)
 
 then write this command <br>
 ` npm install`
